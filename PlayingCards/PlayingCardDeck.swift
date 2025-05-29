@@ -15,6 +15,7 @@ struct PlayingCardDeck{
             return cards.remove(at: cards.count.random())
         }
         print("hello")
+        print("hi")
         return nil
     }
     
