@@ -17,11 +17,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view opaque="NO" contentMode="redraw" translatesAutoresizingMaskIntoConstraints="NO" id="pxC-AW-LTH" customClass="PlayingCardView" customModule="PlayingCards" customModuleProvider="target">
-                                <rect key="frame" x="16" y="162" width="361" height="577"/>
+                                <rect key="frame" x="20.333333333333343" y="134" width="352.33333333333326" height="634"/>
                                 <color key="backgroundColor" systemColor="secondarySystemBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" priority="750" constant="800" id="a2v-P4-viQ"/>
-                                    <constraint firstAttribute="width" secondItem="pxC-AW-LTH" secondAttribute="height" multiplier="5:8" id="jl2-oa-ri1"/>
+                                    <constraint firstAttribute="width" secondItem="pxC-AW-LTH" secondAttribute="height" multiplier="5:9" id="jl2-oa-ri1"/>
                                 </constraints>
                             </view>
                         </subviews>
