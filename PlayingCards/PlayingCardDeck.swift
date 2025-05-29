@@ -14,11 +14,6 @@ struct PlayingCardDeck{
         if cards.count > 0 {
             return cards.remove(at: cards.count.random())
         }
-        //push到github
-        //重新测试一下
-        print("hello")
-        print("h")
-        print("this is dev branch")
         return nil
     }
     
