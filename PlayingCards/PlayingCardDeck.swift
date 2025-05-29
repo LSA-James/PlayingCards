@@ -10,6 +10,7 @@ import Foundation
 struct PlayingCardDeck{
     var cards = [PlayingCard]()
     
+    //为什么那个窗口不存在
     mutating func draw() -> PlayingCard?{
         if cards.count > 0 {
             return cards.remove(at: cards.count.random())
